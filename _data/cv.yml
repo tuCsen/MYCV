@@ -1,0 +1,99 @@
+url: http://streetturtle.github.io
+projectUrl: jekyl-cv-crafter
+
+# leave blank fields which you don't want to fill/be displayed
+person:
+  name: David Beutler
+  depiction: David.png
+  profession: M&A IT-Infrastructure SME
+  location: Stuttgart (Remote)
+  citizenship: German
+  email: DavidBeutler86@gmail.com
+  phone: +491722865091
+  linkedin: /davids-profile
+
+career:
+ - position: IT Project Manager & IT-Infrastructure expert for M&A Projects
+   company: Robert Bosch GmbH
+   location: Stuttgart
+   dates: May 2020 - current (4 Years)
+   summary: Working in various global as well regional integration & Carve-Out projects as project lead, sub-project lead and consultant 
+   accomplishments:
+    - accomplishment: IT-Project lead for UK based IT-Integration into BOSCH IT-Infrastructure, management of budget, time and quality. Additionally providing technical IT-Infrastructure solution during and after the transaction.
+    - accomplishment: Sub-Project lead for Client Workplace and Microsoft 365 work stream in M&A carve-outs. Contains scoping, preparation, design, planning, migration and closing of the carve-out transaction.
+    - accomplishment: Responsible for internal value improvement in technical processes to enhance carve-out times and smooth IT-integrations.
+ - position: Backoffice Project Management & Rollout Manager
+   company: Robert Bosch GmbH
+   location: Stuttgart
+   dates: July 2016 - May 2020 (4 Years)
+   summary: Support project management in a world wide implementation of new IT-Support concept @BOSCH.
+   accomplishments:
+    - accomplishment: Project Backoffice for quality and project management assistance (Quality Gatepreparation, Risk Management, Milestone tracking...).
+    - accomplishment: Concept development for Next Generation Support Services @ BOSCH.
+    - accomplishment: Rollout manager for a global IT-project implementation (Creation of rollout concept, pilot implementation, concept reworks & rollout tracking).
+    - accomplishment: Consultant for regional and location based rollout coordinators.
+  - position: Backoffice Project Management & Rollout Manager
+    company: Bosch.IO
+    location: Immenstaad (Lake of Constance)
+    dates: May 2013 - July 2016 (3 Years)
+    summary: Administration and development of Client workplaces 
+    accomplishments:
+      - accomplishment: IT support for client workplaces.
+      - accomplishment: Active Directory and Exchange user administration.
+      - accomplishment: Software packaging (Baramundi).
+      - accomplishment: Small IT-Project lead.
+      - accomplishment: Asset Management.
+  - position: IT-Administrator
+    company: Autohaus Bleicher
+    location: Friedrichshafen (Lake of Constance)
+    dates: March 2010 - May 2013 (3 Years)
+    summary: Administration and support of a basic IT-Infrastructure
+    accomplishments:
+      - accomplishment: Windows Server administration.
+      - accomplishment: Network administration.
+      - accomplishment: General IT-Support.
+      - accomplishment: Telephone system administration.
+
+technicalSkills:
+  list:
+    - tr: "Impulsive, creative and very social"
+    - tr: "Heart and soul of the Ninja Turtles"
+    - tr: "Master of the Kusarigama and nunchucks"
+    - tr: "Labeled as 'The Wild One' and 'The Party Dude'"
+    - tr: "First of the turtles to taste pizza"
+    - tr: "Very proud of his talent for naming thing"
+  backend:
+   - name: Ninjutsu
+     level: 90
+   - name: Kusarigama
+     level: 80
+  frontend:
+   - name: Cooking Skills
+     level: 80
+   - name: Pranks
+     level: 90
+  other:
+   - name: Shadow Puppet Skill
+     level: 90
+   - name: Teaching
+     level: 100
+
+sideProjects:
+  - name: jekyll-clean-dark
+    description: Theme for Jekyll - static site generator. After creating theme for my blog I shared it on github.
+    link: https://github.com/streetturtle/jekyll-clean-dark
+    type: github
+    langs: HTML/CSS/Bootstrap
+
+  - name: number-writing-trainer
+    description: Application which helps with learning foreign numerals. Was created to help with learning how to write french numbers as well as to practice AngularJS.
+    link: http://pavelmakhov.com/number-writing-trainer/#/
+    type: site
+    langs: AngularJS/HTML/CSS/Bootstrap
+
+education:
+  - name: Master Splinter Academy
+    degree: Mutant Red-Eared Slider
+    location: sewers of New York City
+    dates: 2007 – 2012
+    link: http://tmnt2012series.wikia.com/
